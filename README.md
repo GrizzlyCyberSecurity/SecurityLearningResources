@@ -1,2 +1,2 @@
-# SecurityLearningResources
-To gain knowledge
+# Repo of Resources for Learning Security
+Happy learning
