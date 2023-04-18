@@ -1,0 +1,2 @@
+# SecurityLearningResources
+To gain knowledge
